@@ -55,4 +55,5 @@ module.exports = function(app) {
 
 		// Send appropriate response
 		res.json({status: 'OK', matchName: matchName, matchImage: matchImage});
-	});
+    });
+}
