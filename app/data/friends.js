@@ -1,8 +1,8 @@
 // Data structure that will store the friends data
 var friendsArray = [
 	{
-		name: 'Scooter',
-		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+		name: 'Lisa Vanderpump',
+		photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lisa_Vanderpump_2014.jpg/220px-Lisa_Vanderpump_2014.jpg',
 		scores: [
 			'1',
 			'5',
@@ -17,8 +17,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Fluffy',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+		name: 'Kyle Richards',
+		photo: 'https://www.bravotv.com/sites/bravo/files/styles/blog-post-embedded--computer/public/2020/06/kyle-richards-aspen_0.jpg?itok=_T6vuWS5',
 		scores: [
 			'2',
 			'4',
@@ -33,8 +33,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Spencer',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+		name: 'Teddi Mellencamp',
+		photo: 'https://www.bravotv.com/sites/bravo/files/styles/cast-detail--tablet/public/2020-03/rhobh-season-10-bodyshot-teddi-mellencamp.jpg?itok=rfbHio8a',
 		scores: [
 			'4',
 			'3',
@@ -49,8 +49,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Zackariah',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		name: 'Dorit',
+		photo: 'https://www.bravotv.com/sites/bravo/files/styles/cast-detail--tablet/public/2020-03/rhobh-season-10-bodyshot-dorit-kemsley.jpg?itok=a_vjWNPh',
 		scores: [
 			'5',
 			'1',
@@ -65,8 +65,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Cloe',
-		photo: 'http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg',
+		name: 'Erika',
+		photo: 'https://www.bravotv.com/sites/bravo/files/styles/cast-detail--tablet/public/2020-03/rhobh-season-10-bodyshot-erika-jayne.jpg?itok=NUo7xZ2g',
 		scores: [
 			'1',
 			'1',
@@ -81,8 +81,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Mrs. Piggy',
-		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
+		name: 'Lisa Rinna',
+		photo: 'https://www.bravotv.com/sites/bravo/files/styles/cast-detail--tablet/public/2020-03/rhobh-season-10-bodyshot-lisa-rinna.jpg?itok=rpWYXFqa',
 		scores: [
 			'1',
 			'1',
@@ -97,8 +97,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Beyonce Knowles',
-		photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
+		name: 'Garcelle Beauvais',
+		photo: 'https://www.bravotv.com/sites/bravo/files/styles/cast-detail--tablet/public/2020-03/rhobh-season-10-bodyshot-garcelle-beauvais.jpg?itok=9PaGKCXc',
 		scores: [
 			'5',
 			'4',
@@ -113,8 +113,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Adele Adkins',
-		photo: 'https://i1.imgiz.com/data/videoshots/6829/6829475-6461.jpg',
+		name: 'Sutton Stracke',
+		photo: 'https://www.bravotv.com/sites/bravo/files/styles/cast-detail--tablet/public/2020-03/rhobh-season-10-bodyshot-sutton-stracke.jpg?itok=VsiUiZSD',
 		scores: [
 			'5',
 			'2',
@@ -129,8 +129,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Kermit the Frog',
-		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
+		name: 'Denise Richards',
+		photo: 'https://www.bravotv.com/sites/bravo/files/styles/cast-detail--tablet/public/2020-03/rhobh-season-10-bodyshot-denise-richards.jpg?itok=TTLUwLr1',
 		scores: [
 			'5',
 			'5',
@@ -145,8 +145,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Elmo',
-		photo: 'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
+		name: 'Ramona Singer',
+		photo: 'https://www.bravotv.com/sites/bravo/files/styles/cast-detail--tablet/public/2020-02/rhony-season-12-bodyshot-ramona-singer.jpg?itok=fhuOs-s4',
 		scores: [
 			'1',
 			'1',
